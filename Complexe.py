@@ -12,16 +12,5 @@ class Complexe:
         return coordo
     def conjugaison(a,b):
         print(a,"-i",b)
-    def __add__(self,a):
-        return a
-    def __radd__(self, a):
-        return a
-    def __sub__(self,a):
-        return a
-    def __rsub__(self,a):
-        return a
-    def __mul__(self,a):
-        return a
-    def __rmul__(self,a):
-        return a
+
         
